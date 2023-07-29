@@ -1,0 +1,48 @@
+# Entry removed Fri Jul 28 23:18:12 2023
+# Reason: [0;31mERROR:[0m [youtube] yi8ypj_2acE: Private video. Sign in if you've been granted access to this video
+https://youtube.com/watch?v=yi8ypj_2acE
+
+################################
+
+# Entry removed Fri Jul 28 23:18:12 2023
+# Reason: [0;31mERROR:[0m [youtube] xYtBAbqJO9k: Video unavailable
+https://youtube.com/watch?v=xYtBAbqJO9k
+
+################################
+
+# Entry removed Sat Jul 29 00:27:07 2023
+# Reason: ERROR: [youtube] 4Phu1jJhVT4: Private video. Sign in if you've been granted access to this video
+https://youtube.com/watch?v=4Phu1jJhVT4
+
+################################
+
+# Entry removed Sat Jul 29 00:29:00 2023
+# Reason: ERROR: [youtube] Al23Vj-YPn8: Video unavailable
+https://youtube.com/watch?v=Al23Vj-YPn8
+
+################################
+
+# Entry removed Sat Jul 29 00:29:00 2023
+# Reason: ERROR: [youtube] QGTzMvXTUiY: Video unavailable
+https://youtube.com/watch?v=QGTzMvXTUiY
+
+################################
+
+# Entry removed Sat Jul 29 00:46:49 2023
+# Reason: ERROR: [youtube] OU87ugesC3Q: Video unavailable. This video is not available
+https://youtube.com/watch?v=OU87ugesC3Q
+
+################################
+
+# Entry removed Sat Jul 29 00:51:01 2023
+# Reason: ERROR: [youtube] 4bjPlBC4h_8: Video unavailable. This video contains content from SME, who has blocked it in your country on copyright grounds
+https://youtube.com/watch?v=4bjPlBC4h_8
+
+################################
+
+# Entry removed Sat Jul 29 00:58:31 2023
+# Reason: ERROR: [youtube] rq_F7lGOj7I: Private video. Sign in if you've been granted access to this video
+https://youtube.com/watch?v=rq_F7lGOj7I
+
+################################
+
